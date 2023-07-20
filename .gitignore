@@ -1,1 +1,3 @@
 *.iml
+**.pyc
+ecom/store/migrations/*.*
