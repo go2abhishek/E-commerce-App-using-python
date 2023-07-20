@@ -1,0 +1,14 @@
+# Lines starting with "#" are comments.
+
+# Assigning individual ownership for a specific file:
+#/docs/OWNERS @john-doe
+
+# Assigning team ownership for a directory:
+#/src/backend/ OWNERS @backend-team
+/ OWNERS @go2abhishek
+
+# Wildcard pattern to match all JavaScript files in the root directory:
+#*.js OWNERS @javascript-team
+
+# Wildcard pattern to match all files in the docs directory:
+#/docs/* OWNERS @documentation-team
