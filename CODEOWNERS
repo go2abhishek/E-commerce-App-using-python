@@ -5,7 +5,7 @@
 
 # Assigning team ownership for a directory:
 #/src/backend/ OWNERS @backend-team
-* OWNERS @go2abhishek
+* @go2abhishek
 
 # Wildcard pattern to match all JavaScript files in the root directory:
 #*.js OWNERS @javascript-team
